@@ -60,6 +60,10 @@ Please review the Academic Dishonesty policies <a href="https://studentaffairs.d
 
 ### Course components:
 
+#### Class sessions:
+
+In case you miss class or would like to review the material covered in class, you can view the recordings [here](https://trinity.capture.duke.edu/Panopto/Pages/Sessions/List.aspx?folderID=9161c49e-b3d5-4d40-a282-ebe8a938055d). Note that you will need to log in with your Net ID.
+
 #### Teams:
 
 To construct functional and diverse teams, you will be asked to complete a short survey to gauge your previous exposure to programming topics. After completing the survey, you will be assigned to teams of 3-4 students - these teams will stay consistent throughout the semester (barring extraordinary circumstances). You will work in these teams during class, on application exercises, on labs, and on the project.
@@ -72,13 +76,17 @@ These will usually start in class and can be assigned to be finished by the next
 
 Beyond the in class activities, you will be assigned larger data analysis tasks throughout the semester. These assignments will be completed individually. 
 
+Homework with the lowest score for each student will be dropped.
+
 #### Labs:
 
 The objective of the labs is to give you hands on experience with data analysis using modern statistical software. The labs will also provide you with tools that you will need to complete the project successfully.
 
-All team members are expected to contribute equally to the completion of each assignment and you will be asked to evaluate your team members after each assignment is due.
+All team members are expected to contribute equally to the completion of each assignment and you will be asked to evaluate your team members after a few assignments are due.
 
-Students are expected to make use of their team's git repository on the course's github page as their central collaborative platform. Commits to this repository will be used as a metric of each team member's relative contribution for each homework.
+Students are expected to make use of their team's git repository on the course's github page as their central collaborative platform. Commits to this repository will be used as a metric of each team member's relative contribution for each lab.
+
+Lab with the lowest score for each student will be dropped.
 
 #### Exams:
 
